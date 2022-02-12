@@ -11,10 +11,10 @@ A password is randomly generated based on criteria that the user provides when p
 *JaveScript
 
 ## wesite
-https://julie-t87.github.io/my-portfolio/
+https://julie-t87.github.io/password-generator/
 
-![my-portfolio](https://user-images.githubusercontent.com/94236932/152697338-2ace9658-e0c8-45ec-81b3-8a12f677854d.png)
 
+![password-generater](https://user-images.githubusercontent.com/94236932/153729562-9ce88ef1-9776-44b6-86b3-13c78896701e.png)
 
 
 
